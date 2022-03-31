@@ -1,0 +1,23 @@
+body {
+    background-color: black;
+    text-align: center;
+}
+
+p, h1, h2, a {
+    font-family:'Courier New', Courier, monospace;
+    color: green;
+}
+
+section {
+    margin: auto;
+}
+
+#img-div {
+    width: 60%;
+    margin: auto;
+}
+
+#tribute-info {
+    width: 60%;
+    text-align: justify;
+}
